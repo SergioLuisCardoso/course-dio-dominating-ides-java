@@ -8,8 +8,8 @@ Updating local repository
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SergioLuisCardoso/README-template?style=for-the-badge)
 
 
-## 📝 Licença
+## 📝 Lisence
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 [⬆ Voltar ao topo](#course-dio-dominating-ides-java)<br>
